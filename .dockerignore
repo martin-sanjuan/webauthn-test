@@ -1,0 +1,27 @@
+# Git
+.git
+.gitignore
+
+# Documentation
+README.md
+*.md
+
+# Docker files
+Dockerfile
+.dockerignore
+docker-compose.yml
+
+# Local database files
+*.db
+*.sqlite
+
+# IDE files
+.vscode
+.idea
+
+# macOS
+.DS_Store
+
+# Temporary files
+*.tmp
+*.log 
